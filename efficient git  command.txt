@@ -1,0 +1,48 @@
+git init 
+
+git config --global user.name ' ashraful'
+
+git config --global user.email " alammdashrafulcst@gmail " 
+
+git config --list
+
+git add --all or git add -A
+
+git add . for only a specific folder all data 
+
+pwd ( where is me now ?)
+
+git reset for unstage 
+
+
+backt from commit to local    git reset HEAD~
+
+git commit -m " write message"
+
+git rm 'file name'
+
+for role bank of removed data : git reset --hard
+git rm -f : for removing modified file 
+
+git branch for knowing current branch
+
+git branch ( name of new branch) : for creating new branch
+
+
+git checkout (branch name ) for switching branch
+
+git log --oneline        ( commits logs )
+
+
+git remote -v ( For knowing the remote repository name 
+
+
+git clone + remote repo link
+
+
+git remote add origin
+
+
+open .  ( for opening the current file )
+
+cls is command for clearing cmd
